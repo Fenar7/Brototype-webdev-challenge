@@ -1,0 +1,15 @@
+{
+  "name": "vid5",
+  "version": "1.0.0",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "upper-case": "^3.0.0",
+    "uppercase": "^2.0.0-beta.23"
+  },
+  "description": ""
+}
